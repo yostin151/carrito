@@ -1,1 +1,4 @@
 
+git add carrito/imagen/1.jpg
+git commit -m "Añadir imagen"
+git push origin main
